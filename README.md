@@ -6,7 +6,7 @@
    Robo-Advisors are algorithms built to calibrate a financial portfolio to the goals and risk tolerance of the user. Additionally, they provide automated financial 
    guidance and service to end investors and clients. Ex. : A user enters their financial goals (e.g., to retire at age 65 with $250,000 in savings),
    age, income, and current financial assets. The advisor (the allocator) then spreads investments across asset classes and financial instruments in order to reach the 
-   user’s goals. The system then calibrates to changes in the user’s goals and real-time changes in the market, aiming always to find the best fit for the user’s 
+   user's goals. The system then calibrates to changes in the user's goals and real-time changes in the market, aiming always to find the best fit for the user's 
    original goals.
 - **Fraud Detection** : 
 - **Loans/Credit Card/Insurance Underwriting** : At large companies (big banks and publicly traded insurance firms), machine learning algorithms can be trained on   
