@@ -15,9 +15,14 @@ Part of the time series not captured by seasonal or trend component.
 We can write the components of a time series y<sub>t</sub> as :
 <br>
 y<sub>t</sub> = S<sub>t</sub> + T<sub>t</sub> + R<sub>t</sub>
+<br>
 where 
 <br>
-S<sub>t</sub> is the seasonal component, T<sub>t</sub> is the trend component, R<sub>t</sub> is the remainder component of the time series.
+S<sub>t</sub> is the seasonal component 
+<br>
+T<sub>t</sub> is the trend component 
+<br>
+R<sub>t</sub> is the remainder component of the time series.
 
 ## Autocorrelation and Stationarity
 ### Autocorrelation
@@ -26,5 +31,5 @@ term autoregression indicates that it is a regression of the variable against it
 combination of past values of the variable. Thus, an autoregressive model of order p can be written as
 <br>
 y<sub>t</sub> = c + ϕ<sub>1</sub> y<sub>t - 1</sub> + ϕ<sub>2</sub> y<sub>t - 2</sub> + ....ϕ<sub>p</sub> y<sub>t - p</sub> + ϵ
+<br>
 
-- 
